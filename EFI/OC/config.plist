@@ -22,6 +22,14 @@
 				<key>Path</key>
 				<string>SSDT-PR.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Disables the GT 730 GPU</string>
+				<key>Enabled</key>
+				<false/>
+				<key>Path</key>
+				<string>SSDT-GPU-DISABLE.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
