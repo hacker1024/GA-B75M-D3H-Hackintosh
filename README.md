@@ -10,7 +10,7 @@ An OpenCore configuration for my custom build with a Gigabyte GA-B75M-D3H mother
 | CPU         | Intel® Core™ i5-3470                                         |
 | iGPU        | Intel® HD Graphics 2500                                      |
 | dGPU        | NVIDIA GeForce GT 730 (GK208B)                               |
-| RAM         | 2x 16GB DDR3 1600MHz Kingston KHX1600C10D3L/8GX<br />2x 2GB DDR3 1333MHz Kingston KP223C-ELD |
+| RAM         | 2x 8GB DDR3 1600MHz Kingston KHX1600C10D3L/8GX<br />2x 2GB DDR3 1333MHz Kingston KP223C-ELD |
 | Ethernet    | Realtek RTL8111                                              |
 | Audio       | Realtek ALC887                                               |
 | SATA        | 1x SATA 3, 5x SATA 2                                         |
